@@ -91,31 +91,40 @@
 **Предвидување на холестерол во крвта со помош на линеарна регресија**
 
 Резултати на обична линеарна регресија:
+
 ![image](https://user-images.githubusercontent.com/61628838/206916994-122fa9fc-1e86-4fdf-b2b5-d89441ffa569.png)
 
 Резултати на обична линеарна регресија со скалирање на променливите:
+
 ![image](https://user-images.githubusercontent.com/61628838/206916999-c8117613-022e-415e-af0e-71107d6d5a8b.png)
 
 Полиномна регресија со скалирање:
+
 ![image](https://user-images.githubusercontent.com/61628838/206916989-2bd9802a-3252-47b4-a8af-9c1ea84f65f7.png)
 
 **Ridge регресија**
+
  ![image](https://user-images.githubusercontent.com/61628838/206917007-266c5ef7-3c65-4e5a-b5c7-feafe0ed71d5.png)
 
 
 
 **Предвидување на target атрибутот со помош на логистичка регресија**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917012-94b96d74-0358-4e40-86ab-a9a7d39b62bf.png)
+
 ![image](https://user-images.githubusercontent.com/61628838/206917021-a71dfa84-6cf0-4845-8f2e-fa274183c28b.png)
 
 **LDA со не балансирано и балансирано множество**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917059-19ee21cb-cf66-4bd2-95dd-5c6dd1b060de.png)
 
   
 **Не балансирано**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917074-e13b868f-f534-4ea0-affe-414d69de5f66.png)
 
 **Балансирано**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917080-81bf639d-c893-4aa5-bbdb-7af90e037a63.png)
     
     
@@ -127,8 +136,10 @@
 **Кластер модели**
 
 **КMeans**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917101-c9df238e-8ee8-45a8-9471-d62384a258f4.png)
  
 **Algomerative кластерирање**
+
 ![image](https://user-images.githubusercontent.com/61628838/206917108-1f282d52-47c8-4c34-bc41-197308e9a078.png)
 
