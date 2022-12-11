@@ -48,7 +48,8 @@
 ![image](https://user-images.githubusercontent.com/61628838/206916905-efce6a82-f533-44cd-8b43-cde3f350db5b.png)
 
   
-	Споредба на модели со различна вредност на cpp_alphas и тунирање на истите 
+=>	Споредба на модели со различна вредност на cpp_alphas и тунирање на истите
+
 ![image](https://user-images.githubusercontent.com/61628838/206916913-ceb3b153-3deb-4ba1-bc5d-289e167bc0d2.png)
 
 **Random forest classifier**
