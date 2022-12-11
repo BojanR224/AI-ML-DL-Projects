@@ -26,24 +26,29 @@
 •	Target: Дали пациентот има срцеви заболувања?
 
 **Зависности помеѓу атрибутите**
- ![image](https://user-images.githubusercontent.com/61628838/206916874-d35066c5-31c0-47aa-a352-287afbd8a82a.png)
+
+![image](https://user-images.githubusercontent.com/61628838/206916874-d35066c5-31c0-47aa-a352-287afbd8a82a.png)
 
 **Визуелизација со PCA**
+
 ![image](https://user-images.githubusercontent.com/61628838/206916880-3ba59299-ac46-46e3-a39f-afbc6354c123.png)
 
 
 **Отстранување на outliers**
+
 ![image](https://user-images.githubusercontent.com/61628838/206916885-17317a8d-8654-44a8-a24b-77955fdbecac.png)
 
  => Отстранети се 16 редици од множеството, така што мерката употребена за отфрлање на редици е ако некој атрибут има вредност поголема од  3 * Standard deviation на соодветниот атрибут
 
 **Missing values**
+
 ![image](https://user-images.githubusercontent.com/61628838/206916888-23f7b175-fed6-41ed-9c23-8b0492c386d8.png)
 
 
 
 
 **Дрво на одлучување**
+
 ![image](https://user-images.githubusercontent.com/61628838/206916898-091e5250-5476-470d-a23c-524d994a328c.png)
 ![image](https://user-images.githubusercontent.com/61628838/206916905-efce6a82-f533-44cd-8b43-cde3f350db5b.png)
 
